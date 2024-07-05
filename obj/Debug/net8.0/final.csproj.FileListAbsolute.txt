@@ -1,0 +1,15 @@
+C:\Users\Morales Flores\Desktop\final\bin\Debug\net8.0\final.exe
+C:\Users\Morales Flores\Desktop\final\bin\Debug\net8.0\final.deps.json
+C:\Users\Morales Flores\Desktop\final\bin\Debug\net8.0\final.runtimeconfig.json
+C:\Users\Morales Flores\Desktop\final\bin\Debug\net8.0\final.dll
+C:\Users\Morales Flores\Desktop\final\bin\Debug\net8.0\final.pdb
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.AssemblyInfoInputs.cache
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.AssemblyInfo.cs
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.csproj.CoreCompileInputs.cache
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.sourcelink.json
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.dll
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\refint\final.dll
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.pdb
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\final.genruntimeconfig.cache
+C:\Users\Morales Flores\Desktop\final\obj\Debug\net8.0\ref\final.dll
