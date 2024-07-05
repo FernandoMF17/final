@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Morales Flores\\source\\repos\\final\\final.csproj": {}
+    "C:\\Users\\Morales Flores\\Desktop\\final\\final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Morales Flores\\source\\repos\\final\\final.csproj": {
+    "C:\\Users\\Morales Flores\\Desktop\\final\\final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Morales Flores\\source\\repos\\final\\final.csproj",
+        "projectUniqueName": "C:\\Users\\Morales Flores\\Desktop\\final\\final.csproj",
         "projectName": "final",
-        "projectPath": "C:\\Users\\Morales Flores\\source\\repos\\final\\final.csproj",
+        "projectPath": "C:\\Users\\Morales Flores\\Desktop\\final\\final.csproj",
         "packagesPath": "C:\\Users\\Morales Flores\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Morales Flores\\source\\repos\\final\\obj\\",
+        "outputPath": "C:\\Users\\Morales Flores\\Desktop\\final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Morales Flores\\AppData\\Roaming\\NuGet\\NuGet.Config",
